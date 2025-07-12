@@ -1,0 +1,6 @@
+#spring:
+#  ai:
+#    ollama:
+#      embedding:
+#        model: nomic-embed-text
+#      base-url: http://localhost:11434

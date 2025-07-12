@@ -1,0 +1,11 @@
+C:\Users\krkan\Downloads\pdfqa\pdfqa\src\main\java\com\example\pdfqa\config\ChatConfig.java
+C:\Users\krkan\Downloads\pdfqa\pdfqa\src\main\java\com\example\pdfqa\config\VectorStoreConfig.java
+C:\Users\krkan\Downloads\pdfqa\pdfqa\src\main\java\com\example\pdfqa\controller\PdfController.java
+C:\Users\krkan\Downloads\pdfqa\pdfqa\src\main\java\com\example\pdfqa\controller\QnaController.java
+C:\Users\krkan\Downloads\pdfqa\pdfqa\src\main\java\com\example\pdfqa\controller\VectorStoreController.java
+C:\Users\krkan\Downloads\pdfqa\pdfqa\src\main\java\com\example\pdfqa\dto\QaResponse.java
+C:\Users\krkan\Downloads\pdfqa\pdfqa\src\main\java\com\example\pdfqa\PdfqaApplication.java
+C:\Users\krkan\Downloads\pdfqa\pdfqa\src\main\java\com\example\pdfqa\service\EmbeddingService.java
+C:\Users\krkan\Downloads\pdfqa\pdfqa\src\main\java\com\example\pdfqa\service\PdfHighlightService.java
+C:\Users\krkan\Downloads\pdfqa\pdfqa\src\main\java\com\example\pdfqa\service\PdfService.java
+C:\Users\krkan\Downloads\pdfqa\pdfqa\src\main\java\com\example\pdfqa\service\QnaService.java
